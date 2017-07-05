@@ -7,8 +7,8 @@ Test Project
 
 below are important:
 
--item1
+*item1
 
--item2
+*item2
 
--autism overload
+*autism overload
